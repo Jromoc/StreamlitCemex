@@ -12,3 +12,5 @@ a = st.text_input("Inserte su busqueda aqui")
 b = a + 'aaaar'
 
 st.write(b)
+
+st.image('cemex banner.png')
