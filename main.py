@@ -7,9 +7,6 @@ st.write("""
 
 a = st.text_input("Inserte su busqueda aqui")
 
-def suma(a):
-    b = a   
-    return b
-suma()
+b = a
 
 st.write(b)
