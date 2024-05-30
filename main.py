@@ -25,6 +25,6 @@ st.write("""
 
 a = st.text_input("Inserte su busqueda aqui")
 
-b = a + 'r'
+b = a + 'aaaar'
 
 st.write(b)
