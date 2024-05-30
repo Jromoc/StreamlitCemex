@@ -13,4 +13,4 @@ b = a + 'aaaar'
 
 st.write(b)
 
-st.image('cemex banner.png')
+st.image('cemex banner.jpg')
