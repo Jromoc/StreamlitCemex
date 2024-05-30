@@ -1,12 +1,11 @@
 import streamlit as st
 st.set_page_config(layout="wide")
 
-
+st.image('cemex logo.png')
 
 st.write("""
          # Hola prueba cemex
          """)
-st.image('cemex logo.png')
 
 a = st.text_input("Inserte su busqueda aqui")
 
