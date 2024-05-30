@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(layout="wide")
 
-st.image('cemex logo.png', use_column_width=True)
+st.image('cemex logo.png', width=800)
 
 st.write("""
          # Hola prueba cemex
